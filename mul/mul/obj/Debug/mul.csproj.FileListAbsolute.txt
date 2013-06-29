@@ -1,0 +1,5 @@
+c:\users\wuzhenquan\documents\visual studio 2010\Projects\mul\mul\bin\mul.dll
+c:\users\wuzhenquan\documents\visual studio 2010\Projects\mul\mul\bin\mul.pdb
+c:\users\wuzhenquan\documents\visual studio 2010\Projects\mul\mul\obj\Debug\ResolveAssemblyReference.cache
+c:\users\wuzhenquan\documents\visual studio 2010\Projects\mul\mul\obj\Debug\mul.dll
+c:\users\wuzhenquan\documents\visual studio 2010\Projects\mul\mul\obj\Debug\mul.pdb
